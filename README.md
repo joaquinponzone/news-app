@@ -1,6 +1,6 @@
-### Front-End Test Code
+# Test Code
 
-# Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
