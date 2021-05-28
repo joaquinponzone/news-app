@@ -1,14 +1,14 @@
 ### Front-End Test Code
 
-> Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
-### `npm install`
+> `npm install`
 
 Installs all dependecies needed
 
-### `npm start`
+> `npm start`
 
 Runs the app in the development mode.<br />
 
